@@ -1,0 +1,2 @@
+# -AI-Based-Insider-Threat-Detection-System-Jan-2025-Apr-2025-
+Cybersecurity, Machine Learning | Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook | Developed an anomaly detection system using the Isolation Forest algorithm to identify suspicious user activities from system logs. Performed data preprocessing, feature engineering, model training, and evaluation, Tools: Jupyter Notebook, Python |
